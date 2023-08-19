@@ -20,10 +20,11 @@ const About = () => {
             Food is an important part of a balanced diet 
             </h1>
             <p className="primary-text">
-                whole lot of text
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+            Ut enim ad minim veniam, 
             </p>
             <p className="primary-text">
-                whole lot of text part 2
+            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
             </p>
             <div className="about-buttons-container" >
                 <button className="secondary-button" > Learn More </button>
