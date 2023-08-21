@@ -18,7 +18,7 @@ const Testimonials = () => {
         <p >
             Work quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
         </p>
-        <div className='testimonials-stars-container'>
+        <div className='testimonials-stars-container'> 
             <AiFillStar/>
             <AiFillStar/>
             <AiFillStar/>

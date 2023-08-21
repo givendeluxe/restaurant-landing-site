@@ -46,7 +46,7 @@ const Work = () => {
             workInfoData.map((data) => (
                 <div className='work-section-info'>
                     <div className='info-boxes-img-container'>
-                        <img src={data.image} alt="" />
+                        <img src={data.image} alt="" /> 
                     </div>
                     <h1>{data.title} </h1>
                     <p>{data.text}</p>
