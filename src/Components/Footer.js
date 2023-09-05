@@ -9,7 +9,7 @@ const Footer = () => {
     return (
       <div className="footer-wrapper">
         <div className="footer-section-one">
-          <div className="footer-logo-container">
+          <div className="footer-logo-container">  
             <img src={Logo} alt="" />
           </div>
           <div className="footer-icons">
@@ -24,12 +24,12 @@ const Footer = () => {
             <span>Qualtiy</span>
             <span>Help</span>
             <span>Share</span>
-            <span>Carrers</span>
+            <span>Careers</span>
             <span>Testimonials</span>
             <span>Work</span>
           </div>
           <div className="footer-section-columns">
-            <span>244-5333-7783</span>
+            <span>0612 345 6644</span>
             <span>hello@food.com</span>
             <span>press@food.com</span>
             <span>contact@food.com</span>
